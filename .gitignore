@@ -1,0 +1,5 @@
+dist
+node_modules
+
+# Temporarely ignore this
+package-lock.json
