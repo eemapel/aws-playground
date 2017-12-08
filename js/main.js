@@ -4,32 +4,32 @@ import ExampleWork from "./example-work";
 
 const myWork = [
   {
-    'title': 'Work Example',
-    'href': '#',
-    'desc': 'lorem ipsum',
+    'title': 'Suremoku',
+    'href': 'http://bazaar.launchpad.net/~eemapel/suremoku/trunk/files',
+    'desc': 'Qt/C++ Gomoku application',
     'image': {
-      'desc': 'example screenshot of a project involving code',
-      'src': 'images/example1.png',
+      'desc': 'Screenshot of Gomoku app',
+      'src': 'images/suremoku.png',
       'comment': ''
     }
   },
   {
-    'title': 'Portfolio Boilerplate',
-    'href': 'http://www.google.com',
-    'desc': 'lorem ipsum',
+    'title': 'Spotti',
+    'href': 'http://bazaar.launchpad.net/~eemapel/spotti/trunk/files',
+    'desc': "Simple Product Owner's Tool - Dependency Mapper",
     'image': {
-      'desc': 'A Serverless Portfolio',
-      'src': 'images/example2.png',
+      'desc': 'Screenshot of Spotti app',
+      'src': 'images/spotti.png',
       'comment': ''
     }
   },
   {
-    'title': 'Work Example',
-    'href': 'https://example.com',
-    'desc': 'lorem ipsum',
+    'title': 'Protein Finder',
+    'href': 'http://ec2-54-88-196-50.compute-1.amazonaws.com',
+    'desc': 'Web application to find matching proteins for given DNA sequence',
     'image': {
-      'desc': 'example screenshot of a project involving cats',
-      'src': 'images/example3.png',
+      'desc': 'Screenshot of Protein Finder',
+      'src': 'images/proteinfinder.png',
       'comment': ''
     }
   }
